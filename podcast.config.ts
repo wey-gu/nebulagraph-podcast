@@ -12,17 +12,18 @@ export const podcastConfig: PodcastConfig = {
    *   Pocket Casts Castro, 小宇宙, 哔哩哔哩, YouTube
    */
   directories: [
-    'https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584',
-    'https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL',
-    'https://www.youtube.com/lexfridman',
+    'https://geo.itunes.apple.com/us/podcast/id1592290139?ct=rephonic&mt=2',
+    'https://open.spotify.com/show/6AwPXFseiDYweHh74mBqQd',
+    'https://podcasts.google.com/feed/aHR0cDovL3d3dy54aW1hbGF5YS5jb20vYWxidW0vNTQyMTIwMjYueG1s',
+    'https://www.xiaoyuzhoufm.com/podcast/61d4278c2654166e94d07d1f',
   ],
   /**
    * Step 2. Add your podcast hosts here
    */
   hosts: [
     {
-      name: 'Lex Fridman',
-      link: 'https://lexfridman.com/',
+      name: 'NebulaGraph 星球',
+      link: 'https://nebula-podcast-cn.siwei.io/',
     },
   ],
 }
